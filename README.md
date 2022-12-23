@@ -32,9 +32,7 @@ DProcess.py
 
 attention.py
 
-multi_adaboost_CNN.py 
-
-CRBPDL.py
+train.py
 
 
 The tool is developed for aptamer identification using deep hierarchical network
