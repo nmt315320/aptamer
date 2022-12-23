@@ -38,7 +38,7 @@ CRBPDL.py
 
 
 The tool is developed for aptamer identification using deep hierarchical network
-![image](https://github.com/nmt315320/aptamer/blob/87a21f00c1441e48969a7f50c79b28782dad3053/Architecture.png)
+![image](https://github.com/nmt315320/aptamer/blob/main/Architecture.png)
 # Requirements
 - Python 3.7 (64-bit)
 - Keras 2.2.0 in Python
