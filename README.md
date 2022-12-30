@@ -18,7 +18,8 @@ data.xlsx
 
 
 2.code
-2-1. python code----aptamer identification
+
+# 2-1. python code----aptamer identification
 getData.py 
 
 AnalyseFASTA.py
@@ -32,7 +33,8 @@ DProcess.py
 attention.py
 
 train.py(main code)
-2-2. matlab code -----new aptamer design
+
+# 2-2. matlab code -----new aptamer design
 
 BFOA_my.m(main code)
 
@@ -48,6 +50,8 @@ The tool is developed for aptamer identification using deep hierarchical network
 # Usage
 
 command: python train.py 
+
+
 
 You can train the model of 5-fold cross-validation with a very simple way by the command blow:  
 *Python train.py* . The script of if **name == "main"** calls training process which trains several models of each model type and finds the best set of hyperparameters. The main function then trains the models several times (num_final_runs) and saves the best model.
