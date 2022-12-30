@@ -1,5 +1,4 @@
 # aptamer
-# aptamer
 
 #License
 Copyright (C) 2022 Mengting Niu(yunzeer@gmail.com)
@@ -15,11 +14,11 @@ You should have received a copy of the GNU General Public License along with thi
 
 Files: 1.data
 
-
+data.xlsx 
 
 
 2.code
-
+2-1. python code----aptamer identification
 getData.py 
 
 AnalyseFASTA.py
@@ -32,8 +31,10 @@ DProcess.py
 
 attention.py
 
-train.py
+train.py(main code)
+2-2. matlab code -----new aptamer design
 
+BFOA_my.m(main code)
 
 The tool is developed for aptamer identification using deep hierarchical network
 ![image](https://github.com/nmt315320/aptamer/blob/main/Architecture.png)
