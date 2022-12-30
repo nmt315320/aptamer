@@ -20,6 +20,7 @@ data.xlsx
 2.code
 
 2-1. python code----aptamer identification
+
 getData.py 
 
 AnalyseFASTA.py
