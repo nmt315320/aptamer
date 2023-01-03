@@ -14,12 +14,17 @@ You should have received a copy of the GNU General Public License along with thi
 
 Files: 1.data
 
-data.xlsx 
+data.xlsx-DNA VS aptamer datasets
+ASCpeck.fasta-ASC-speck sequences
 
 
 2.code
 
 2-1. python code----aptamer identification
+
+Aptagen Spider-aptamer crawler, extract data
+
+Aptamer Data Cleanup.ipynb-python code-aptamer data clean
 
 getData.py 
 
@@ -32,6 +37,8 @@ Deal_Kmer.py
 DProcess.py
 
 attention.py
+
+RicEnnTool.py
 
 train.py(main code)
 
