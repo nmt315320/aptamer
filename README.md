@@ -26,13 +26,13 @@ Aptagen Spider-aptamer crawler, extract data
 
 Aptamer Data Cleanup.ipynb-python code-aptamer data clean
 
-getData.py 
+getData.py  Dataset
 
 AnalyseFASTA.py
 
-basic_units.py
+basic_units.py 
 
-Deal_Kmer.py
+Deal_Kmer.py Feature
 
 DProcess.py
 
